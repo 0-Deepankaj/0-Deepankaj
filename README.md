@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0-Deepankaj
+- 👋 Hi, I’m @Deepankaj
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning betech cse
 - 💞️ I’m looking to collaborate on devops
